@@ -1,0 +1,3 @@
+python-dotenv>=1.0.0
+autogen-agentchat[gemini,retrievechat,lmm]>=0.2.40
+requests>=2.31.0
