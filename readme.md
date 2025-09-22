@@ -131,8 +131,25 @@ The system includes comprehensive error handling for:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Citation
+
+If you use this project in your research or work, please cite it as:
+
+```bibtex
+@software{linkedin_agent2025,
+  author = {Husain, Ather},
+  title = {LinkedIn Content Generation Agent},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/ather-techie/linkedIn-agent}
+}
+```
+
+## Contact
+
+Ather Husain - [@ather_techie](https://twitter.com/ather_techie) - ather.techie@gmail.com
+
+Project Link: [https://github.com/ather-techie/linkedIn-agent](https://github.com/ather-techie/linkedIn-agent)
+
 ## Acknowledgments
 
-- Google Gemini AI
-- LinkedIn API
-- AutoGen framework
