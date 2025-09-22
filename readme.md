@@ -129,7 +129,7 @@ The system includes comprehensive error handling for:
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
